@@ -62,8 +62,3 @@ pca = function(data, standardize = FALSE){
   # return(mat_korelasi_baru)
   return(hasil)
 }
-
-
-# cov(c)
-
-# data = read.csv("D:/tugas3.csv")
