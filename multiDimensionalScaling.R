@@ -1,4 +1,4 @@
-
+# function for multi dimensional scaling with non metric approach
 mdsnon = function(data, k){
   # masukin stress di parameter kalo udah beres coba-coba
   row1 = rownames(data)
